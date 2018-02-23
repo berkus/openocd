@@ -1,0 +1,8 @@
+Cloned from upstream repo on SF:
+
+git clone git://git.code.sf.net/p/openocd/code
+
+RaspberryPi features cloned from:
+
+git@github.com:daniel-k/openocd.git
+
